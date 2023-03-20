@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier Prime', monospace;
+}
+body{
+    background-color: white;
+}
+table{
+   margin: 20px;
+   border-style: double;
+    border:  2px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    color: black;
+}
+tr, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+    text-align: left;
+    padding-left: 20px;
+}
+.spalva1 {
+background-color:#C69749;
+}
+.spalva2 {
+background-color:#46C2CB;
+}
+.spalva3 {
+background-color:#E94560;
+}
